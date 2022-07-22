@@ -1,3 +1,3 @@
 # Function-Generator
 
-inspired by Nusic from Outer Space
+inspired by Music from Outer Space
